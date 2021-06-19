@@ -1,16 +1,16 @@
 # Project_assessment
 
-#Endpoints for the APIs
+# Endpoints for the APIs
 ## Adding New Comment
-###/comments/addnew
+## /comments/addnew
 ## Updating Existing Comment
-###/comments/editcomment/{id of the comment}
+### /comments/editcomment/{id of the comment}
 ## Deleting Exsiting Comment
-###/comments/deletecomment/{id of the comment}
+### /comments/deletecomment/{id of the comment}
 ## Adding a SubComment/Reply
-###/comments/addreply
+### /comments/addreply
 ## Getting all comments Comments
-###/comments/allcomments
+### /comments/allcomments
 
 # You can look on the documention of the API
 
